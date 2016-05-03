@@ -1,1 +1,2 @@
-# redhat-vagrant-dev-amqstandalone
+# redhat-vagrant-dev
+Config files needed to start single vagrant machines
